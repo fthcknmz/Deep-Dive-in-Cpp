@@ -31,7 +31,7 @@
 4. [Polymorphism]()
 5. [Friend and Static Members / Inner Class]()
 6. [Exception Handling]()
-7. [Template Functions and Classes]()
+7. [Template Functions and Classes](https://github.com/fthcknmz/Deep-Dive-in-Cpp/tree/main/Template%20Function%20and%20Classes)
 8. [Constants, Prepocessor Directives, Namespaces]()
 9. [Destructor]()
 10. [I/O Streams]()
